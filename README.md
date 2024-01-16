@@ -30,11 +30,10 @@ Le projet est organisé de la manière suivante :
 
 ## Utilisation
 
-1. Clonez le projet : `git clone https://github.com/votre-utilisateur/vente-chaussures.git`
-2. Accédez au répertoire du projet : `cd vente-chaussures`
-3. Installez les dépendances : `composer install`
-4. Configurez la base de données : Modifiez les paramètres dans `app/config/database.php`
-5. Démarrez un serveur PHP local : `php -S localhost:8000 -t public`
+1. Clonez le projet : `git clone https://github.com/SandrineJAHAN/Oshop.git`
+2. Installez les dépendances : `composer install`
+3. Configurez la base de données : Modifiez les paramètres dans `app/config/database.php`
+4. Démarrez un serveur PHP local : `php -S localhost:8000 -t public`
 
 Le site sera accessible à l'adresse [http://localhost:8000](http://localhost:8000).
 
